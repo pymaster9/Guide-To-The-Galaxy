@@ -1,0 +1,15 @@
+﻿Name:Bright Stars
+Stars:100
+Play: BrightStars/BrightStars01
+Look: vega
+Play: BrightStars/BrightStars02
+GoTo: vega
+Play: BrightStars/BrightStars03
+GoTo: sun
+Play: BrightStars/BrightStars04
+Look: NAME Lodestar                      NAME Polaris                       NAME North Star                    * alf UMi
+Snap: NAME Lodestar                      NAME Polaris                       NAME North Star                    * alf UMi
+$Rotate$Cam;;
+Play: BrightStars/BrightStars05
+$Stop$Cam;;
+Play: EndOfTour

@@ -1,0 +1,750 @@
+And|* lam And|* kap And
+And|* kap And|* iot And
+And|* iot And|* omi And
+And|* omi And|* iot And
+And|* iot And|* sig And
+And|* sig And|* del And
+And|* del And|NAME Alpheratz                     NAME Sirrah                        * alf And
+And|NAME Alpheratz                     NAME Sirrah                        * alf And|* del And
+And|* del And|163
+And|163|* zet And
+And|* zet And|163
+And|163|* del And
+And|* del And|NAME MIRACH                        * bet And
+And|NAME MIRACH                        * bet And|NAME Almach                        * gam01 And
+And|NAME Almach                        * gam01 And|NAME MIRACH                        * bet And
+And|NAME MIRACH                        * bet And|NAME Nembus                        * ups Per
+And|NAME Nembus                        * ups Per|NAME MIRACH                        * bet And
+And|NAME MIRACH                        * bet And|* mu. And
+And|* mu. And|* nu. And
+Ant|* iot Ant|* alf Ant
+Ant|* alf Ant|* tet Ant
+Ant|* tet Ant|* eps Ant
+Aps|* alf Aps|* del01 Aps
+Aps|* del01 Aps|* gam Aps
+Aps|* gam Aps|* bet Aps
+Aql|NAME Alshain                       * bet Aql|NAME Altair                        * alf Aql
+Aql|NAME Altair                        * alf Aql|NAME Tarazed                       * gam Aql
+Aql|NAME Tarazed                       * gam Aql|* del Aql
+Aql|* del Aql|NAME Okab                          * zet Aql
+Aql|NAME Okab                          * zet Aql|* del Aql
+Aql|* del Aql|* eta Aql
+Aql|* eta Aql|7710
+Aql|7710|* eta Aql
+Aql|* eta Aql|* del Aql
+Aql|* del Aql|* lam Aql
+Aql|* lam Aql|* i Aql
+Aqr|* c02 Aqr|* psi01 Aqr
+Aqr|* psi01 Aqr|* phi Aqr
+Aqr|* phi Aqr|8597
+Aqr|8597|NAME Sadachbia                     * gam Aqr
+Aqr|NAME Sadachbia                     * gam Aqr|* lam Aqr
+Aqr|* lam Aqr|NAME Skat                          * del Aqr
+Aqr|NAME Skat                          * del Aqr|* lam Aqr
+Aqr|* lam Aqr|NAME Sadachbia                     * gam Aqr
+Aqr|NAME Sadachbia                     * gam Aqr|NAME Ancha                         * tet Aqr
+Aqr|NAME Ancha                         * tet Aqr|* iot Aqr
+Aqr|* iot Aqr|NAME Ancha                         * tet Aqr
+Aqr|NAME Ancha                         * tet Aqr|NAME Sadachbia                     * gam Aqr
+Aqr|NAME Sadachbia                     * gam Aqr|8414
+Aqr|8414|NAME Sadalsuud                     * bet Aqr
+Ara|* tet Ara|* alf Ara
+Ara|* alf Ara|* bet Ara
+Ara|* bet Ara|* gam Ara
+Ara|* gam Ara|* del Ara
+Ara|* del Ara|* gam Ara
+Ara|* gam Ara|* zet Ara
+Ara|* zet Ara|* eta Ara
+Ara|* eta Ara|* zet Ara
+Ara|* zet Ara|* eps01 Ara
+Ara|* eps01 Ara|* alf Ara
+Ari|NAME Botein                        * del Ari|* eps Ari A
+Ari|* eps Ari A|NAME Bharani                       * 41 Ari
+Ari|NAME Bharani                       * 41 Ari|NAME Hamal                         * alf Ari
+Ari|NAME Hamal                         * alf Ari|NAME Sheratan                      * bet Ari
+Ari|NAME Sheratan                      * bet Ari|* gam01 Ari
+Aur|NAME Capella                       * alf Aur|NAME Menkalinan                    * bet Aur
+Aur|NAME Menkalinan                    * bet Aur|NAME Mahasim                       * tet Aur
+Aur|NAME Mahasim                       * tet Aur|NAME Elnath                        * bet Tau
+Aur|NAME Elnath                        * bet Tau|NAME Hassaleh                      * iot Aur
+Aur|NAME Hassaleh                      * iot Aur|NAME Saclateni                     * zet Aur
+Aur|NAME Saclateni                     * zet Aur|NAME Haedus                        * eta Aur
+Aur|NAME Haedus                        * eta Aur|NAME Almaaz                        * eps Aur
+Aur|NAME Almaaz                        * eps Aur|NAME Capella                       * alf Aur
+Boo|NAME Seginus                       * gam Boo|* rho Boo
+Boo|* rho Boo|NAME Arcturus                      * alf Boo
+Boo|NAME Arcturus                      * alf Boo|NAME Izar                          * eps Boo
+Boo|NAME Izar                          * eps Boo|* del Boo
+Boo|* del Boo|NAME Nekkar                        * bet Boo
+Boo|NAME Nekkar                        * bet Boo|NAME Seginus                       * gam Boo
+Boo|NAME Seginus                       * gam Boo|NAME Xuange                        * lam Boo
+Boo|NAME Xuange                        * lam Boo|* tet Boo
+Boo|* tet Boo|* kap02 Boo
+Boo|* kap02 Boo|NAME Xuange                        * lam Boo
+CMa|* iot CMa|* tet CMa
+CMa|* tet CMa|NAME Muliphein                     * gam CMa
+CMa|NAME Muliphein                     * gam CMa|* iot CMa
+CMa|* iot CMa|NAME Dog Star                      NAME Sirius                        NAME Sirius A                      * alf CMa
+CMa|NAME Dog Star                      NAME Sirius                        NAME Sirius A                      * alf CMa|NAME Mirzam                        * bet CMa
+CMa|NAME Mirzam                        * bet CMa|* nu.02 CMa
+CMa|* nu.02 CMa|* omi01 CMa
+CMa|* omi01 CMa|NAME Adhara                        * eps CMa
+CMa|NAME Adhara                        * eps CMa|NAME Unurgunite                    * sig CMa
+CMa|NAME Unurgunite                    * sig CMa|NAME Wezen                         * del CMa
+CMa|NAME Wezen                         * del CMa|NAME Aludra                        * eta CMa
+CMa|NAME Aludra                        * eta CMa|NAME Wezen                         * del CMa
+CMa|NAME Wezen                         * del CMa|* omi02 CMa
+CMa|* omi02 CMa|NAME Dog Star                      NAME Sirius                        NAME Sirius A                      * alf CMa
+CMi|NAME Procyon                       NAME Procyon A                     * alf CMi|NAME Gomeisa                       * bet CMi
+CVn|4915|NAME Chara                         * bet CVn
+Cae|* del Cae|* alf Cae
+Cae|* alf Cae|* bet Cae
+Cam|* alf Cha|* tet Cha
+Cam|* tet Cha|4231
+Cam|4231|* bet Cha
+Cam|* bet Cha|* gam Cha
+Cam|* gam Cha|* alf Cha
+Cam|HD 21389|HD 21291
+Cam|HD 21291|V* BE Cam
+Cam|V* BE Cam|* gam Cam
+Cam|* gam Cam|* alf Cam
+Cam|* alf Cam|* bet Cam
+Cam|* bet Cam|1568
+Cap|NAME Algedi                        NAME Giedi                         * alf02 Cap|NAME Dabih Major                   * bet01 Cap
+Cap|NAME Dabih Major                   * bet01 Cap|* psi Cap
+Cap|* psi Cap|* ome Cap
+Cap|* ome Cap|* zet Cap
+Cap|* zet Cap|NAME Nashira                       * gam Cap
+Cap|NAME Nashira                       * gam Cap|NAME Deneb Algedi                  * del Cap
+Cap|NAME Deneb Algedi                  * del Cap|NAME Nashira                       * gam Cap
+Cap|NAME Nashira                       * gam Cap|* iot Cap
+Cap|* iot Cap|* tet Cap
+Cap|* tet Cap|NAME Dabih Major                   * bet01 Cap
+Car|NAME Canopus                       * alf Car|V* V415 Car
+Car|V* V415 Car|* chi Car
+Car|* chi Car|NAME Avior                         * eps Car
+Car|NAME Avior                         * eps Car|NAME Aspidiske                     * iot Car
+Car|NAME Aspidiske                     * iot Car|* q Car
+Car|* q Car|* p Car
+Car|* p Car|* tet Car
+Car|* tet Car|* ome Car
+Car|* ome Car|NAME Miaplacidus                   * bet Car
+Car|NAME Miaplacidus                   * bet Car|* ups Car
+Cas|NAME Segin                         * eps Cas|NAME Ruchbah                       * del Cas
+Cas|NAME Ruchbah                       * del Cas|* gam Cas
+Cas|* gam Cas|NAME Schedar                       * alf Cas
+Cas|NAME Schedar                       * alf Cas|NAME Caph                          * bet Cas
+Cen|* lam Cen|HD 102350
+Cen|HD 102350|4390
+Cen|4390|* rho Cen
+Cen|* rho Cen|* del Cen
+Cen|* del Cen|* sig Cen
+Cen|* sig Cen|* tau Cen
+Cen|* tau Cen|* gam Cen
+Cen|* gam Cen|* eps Cen
+Cen|* eps Cen|NAME Agena                         NAME Hadar                         * bet Cen
+Cen|NAME Agena                         NAME Hadar                         * bet Cen|* eps Cen
+Cen|* eps Cen|NAME Rigel Kentaurus               NAME Rigil Kentaurus               * alf Cen A
+Cen|NAME Rigel Kentaurus               NAME Rigil Kentaurus               * alf Cen A|* eps Cen
+Cen|* eps Cen|* zet Cen
+Cen|* zet Cen|* mu. Cen
+Cen|* mu. Cen|* nu. Cen
+Cen|* nu. Cen|* iot Cen
+Cen|* iot Cen|* nu. Cen
+Cen|* nu. Cen|NAME Menkent                       * tet Cen
+Cen|NAME Menkent                       * tet Cen|* nu. Cen
+Cen|* nu. Cen|* phi Cen
+Cen|* phi Cen|* eta Cen
+Cen|* eta Cen|* kap Cen
+Cep|8974|NAME Alfirk                        * bet Cep
+Cep|NAME Alfirk                        * bet Cep|NAME Alderamin                     * alf Cep
+Cep|NAME Alderamin                     * alf Cep|* zet Cep
+Cep|* zet Cep|* iot Cep
+Cep|* iot Cep|8974
+Cet|NAME Kaffaljidhma                  * gam Cet|* ksi02 Cet
+Cet|* ksi02 Cet|* mu. Cet
+Cet|* mu. Cet|* lam Cet
+Cet|* lam Cet|NAME Menkar                        * alf Cet
+Cet|NAME Menkar                        * alf Cet|NAME Kaffaljidhma                  * gam Cet
+Cet|NAME Kaffaljidhma                  * gam Cet|* del Cet
+Cet|* del Cet|681
+Cet|681|NAME Baten Kaitos                  * zet Cet
+Cet|NAME Baten Kaitos                  * zet Cet|* tet Cet
+Cet|* tet Cet|* eta Cet
+Cet|* eta Cet|NAME Diphda                        * bet Cet
+Cet|NAME Diphda                        * bet Cet|* 48 Cet
+Cet|* 48 Cet|* ups Cet
+Cet|* ups Cet|NAME Baten Kaitos                  * zet Cet
+Cir|* bet Cir|* alf Cir
+Cir|* alf Cir|5704
+Cnc|NAME Acubens                       * alf Cnc|NAME Asellus Australis             * del Cnc
+Cnc|NAME Asellus Australis             * del Cnc|NAME Tarf                          NAME Altarf                        * bet Cnc
+Cnc|NAME Tarf                          NAME Altarf                        * bet Cnc|NAME Asellus Australis             * del Cnc
+Cnc|NAME Asellus Australis             * del Cnc|NAME Asellus Borealis              * gam Cnc
+Cnc|NAME Asellus Borealis              * gam Cnc|* iot Cnc B
+Col|* del Col|* kap Col
+Col|* kap Col|* gam Col
+Col|* gam Col|NAME Wazn                          * bet Col
+Col|NAME Wazn                          * bet Col|* eta Col
+Col|* eta Col|NAME Wazn                          * bet Col
+Col|NAME Wazn                          * bet Col|NAME Phact                         * alf Col
+Col|NAME Phact                         * alf Col|* omi Col
+Com|NAME Diadem                        * alf Com|* bet Com
+Com|* bet Com|* gam Com
+CrA|* eps CrA|* gam CrA
+CrA|* gam CrA|NAME Meridiana                     * alf CrA
+CrA|NAME Meridiana                     * alf CrA|* bet CrA
+CrA|* bet CrA|* del CrA
+CrA|* del CrA|* zet CrA
+CrB|* iot CrB|* eps CrB
+CrB|* eps CrB|* del CrB
+CrB|* del CrB|5849
+CrB|5849|NAME Alphecca                      * alf CrB
+CrB|NAME Alphecca                      * alf CrB|NAME Nusakan                       * bet CrB
+CrB|NAME Nusakan                       * bet CrB|5778
+Crt|* eta Crt|* zet Crt
+Crt|* zet Crt|* gam Crt
+Crt|* gam Crt|* bet Crt
+Crt|* bet Crt|NAME Alkes                         * alf Crt
+Crt|NAME Alkes                         * alf Crt|* del Crt
+Crt|* del Crt|* gam Crt
+Crt|* gam Crt|* del Crt
+Crt|* del Crt|* eps Crt
+Crt|* eps Crt|* tet Crt
+Cru|4730|NAME Gacrux                        * gam Cru
+Cru|NAME Mimosa                        * bet Cru|NAME Imai                          * del Cru
+Crv|NAME Alchiba                       * alf Crv|NAME Minkar                        * eps Crv
+Crv|NAME Minkar                        * eps Crv|NAME Gienah                        * gam Crv
+Crv|NAME Gienah                        * gam Crv|NAME Algorab                       * del Crv
+Crv|NAME Algorab                       * del Crv|NAME Kraz                          * bet Crv
+Crv|NAME Kraz                          * bet Crv|NAME Minkar                        * eps Crv
+Cyg|NAME Albereo                       NAME Albireo                       * bet01 Cyg|* eta Cyg
+Cyg|* eta Cyg|NAME SADR                          * gam Cyg
+Cyg|NAME SADR                          * gam Cyg|NAME Aljanah                       * eps Cyg
+Cyg|NAME Aljanah                       * eps Cyg|* zet Cyg
+Cyg|* zet Cyg|NAME Aljanah                       * eps Cyg
+Cyg|NAME Aljanah                       * eps Cyg|NAME SADR                          * gam Cyg
+Cyg|NAME SADR                          * gam Cyg|NAME Deneb                         * alf Cyg
+Cyg|NAME Deneb                         * alf Cyg|NAME SADR                          * gam Cyg
+Cyg|NAME SADR                          * gam Cyg|NAME Fawaris                       * del Cyg
+Cyg|NAME Fawaris                       * del Cyg|* iot Cyg
+Del|NAME Aldulfin                      * eps Del|NAME Rotanev                       * bet Del
+Del|NAME Rotanev                       * bet Del|NAME Sualocin                      NAME Svalocin                      * alf Del
+Del|NAME Sualocin                      NAME Svalocin                      * alf Del|* gam01 Del
+Del|* gam01 Del|* del Del
+Del|* del Del|NAME Rotanev                       * bet Del
+Dor|* gam Dor|* alf Dor
+Dor|* alf Dor|* zet Dor
+Dor|* zet Dor|* bet Dor
+Dor|* bet Dor|* del Dor
+Dor|* del Dor|* bet Dor
+Dor|* bet Dor|* 36 Dor
+Dra|NAME Grumium                       * ksi Dra|NAME Eltanin                       * gam Dra
+Dra|NAME Eltanin                       * gam Dra|NAME Rastaban                      * bet Dra
+Dra|NAME Rastaban                      * bet Dra|6554
+Dra|6554|NAME Grumium                       * ksi Dra
+Dra|NAME Grumium                       * ksi Dra|NAME Altais                        * del Dra
+Dra|NAME Altais                        * del Dra|* eps Dra B
+Dra|* eps Dra B|* chi Dra
+Dra|* chi Dra|NAME Dziban                        * psi01 Dra A
+Dra|NAME Dziban                        * psi01 Dra A|NAME Aldhibah                      * zet Dra
+Dra|NAME Aldhibah                      * zet Dra|NAME Athebyne                      * eta Dra
+Dra|NAME Athebyne                      * eta Dra|* tet Dra
+Dra|* tet Dra|NAME Edasich                       * iot Dra
+Dra|NAME Edasich                       * iot Dra|NAME Thuban                        * alf Dra
+Dra|NAME Thuban                        * alf Dra|* kap Dra
+Dra|* kap Dra|NAME Giausar                       * lam Dra
+Dra|NAME Giausar                       * lam Dra|HD 81817
+Equ|8131|* bet Equ
+Equ|* bet Equ|* del Equ
+Equ|* del Equ|* gam Equ
+Eri|NAME Cursa                         * bet Eri|* ome Eri
+Eri|* ome Eri|* mu. Eri
+Eri|* mu. Eri|* nu. Eri
+Eri|* nu. Eri|NAME Beid                          * omi01 Eri
+Eri|NAME Beid                          * omi01 Eri|NAME Zaurak                        * gam Eri
+Eri|NAME Zaurak                        * gam Eri|NAME Rana                          * del Eri
+Eri|NAME Rana                          * del Eri|NAME Ran                           * eps Eri
+Eri|NAME Ran                           * eps Eri|NAME Azha                          * eta Eri
+Eri|NAME Azha                          * eta Eri|* pi. Cet
+Eri|* pi. Cet|* tau01 Eri
+Eri|* tau01 Eri|* tau03 Eri
+Eri|* tau03 Eri|* tau04 Eri
+Eri|* tau04 Eri|* tau05 Eri
+Eri|* tau05 Eri|* tau06 Eri
+Eri|* tau06 Eri|* tau08 Eri
+Eri|* tau08 Eri|* tau09 Eri
+Eri|* tau09 Eri|NAME Theemin                       * ups02 Eri
+Eri|NAME Theemin                       * ups02 Eri|NAME Beemim                        * 43 Eri
+Eri|NAME Beemim                        * 43 Eri|* ups04 Eri
+Eri|* ups04 Eri|* g Eri
+Eri|* g Eri|* f Eri
+Eri|* f Eri|* y Eri
+Eri|* y Eri|* e Eri
+Eri|* e Eri|* tet02 Eri
+Eri|* tet02 Eri|* iot Eri
+Eri|* iot Eri|* s Eri
+Eri|* s Eri|* kap Eri
+Eri|* kap Eri|* phi Eri
+Eri|* phi Eri|* chi Eri
+Eri|* chi Eri|NAME Achernar                      * alf Eri
+For|NAME Dalim                         * alf For|* bet For
+For|* bet For|* nu. For
+Gem|* 1 Gem|NAME Propus                        * eta Gem
+Gem|NAME Propus                        * eta Gem|NAME Tejat                         * mu. Gem
+Gem|NAME Tejat                         * mu. Gem|NAME Mebsuta                       * eps Gem
+Gem|NAME Mebsuta                       * eps Gem|* nu. Gem
+Gem|* nu. Gem|NAME Mebsuta                       * eps Gem
+Gem|NAME Mebsuta                       * eps Gem|* tau Gem
+Gem|* tau Gem|* rho Gem
+Gem|* rho Gem|NAME Castor                        NAME Castor AB                     * alf Gem
+Gem|NAME Castor                        NAME Castor AB                     * alf Gem|* rho Gem
+Gem|* rho Gem|* tau Gem
+Gem|* tau Gem|* tet Gem
+Gem|* tet Gem|* tau Gem
+Gem|* tau Gem|* iot Gem
+Gem|* iot Gem|* ups Gem
+Gem|* ups Gem|NAME Pollux                        * bet Gem
+Gem|NAME Pollux                        * bet Gem|* ups Gem
+Gem|* ups Gem|* kap Gem
+Gem|* kap Gem|* ups Gem
+Gem|* ups Gem|2777
+Gem|2777|NAME Mekbuda                       * zet Gem
+Gem|NAME Mekbuda                       * zet Gem|NAME Alhena                        * gam Gem
+Gem|NAME Alhena                        * gam Gem|NAME Mekbuda                       * zet Gem
+Gem|NAME Mekbuda                       * zet Gem|2777
+Gem|2777|* lam Gem
+Gem|* lam Gem|NAME Alzirr                        * ksi Gem
+Gru|NAME Aldhanab                      * gam Gru|* lam Gru
+Gru|* lam Gru|* del01 Gru
+Gru|* del01 Gru|NAME Tiaki                         * bet Gru
+Gru|NAME Tiaki                         * bet Gru|NAME Alnair                        * alf Gru
+Gru|NAME Alnair                        * alf Gru|NAME Tiaki                         * bet Gru
+Gru|NAME Tiaki                         * bet Gru|* eps Gru
+Gru|* eps Gru|* zet Gru
+Gru|* zet Gru|* eps Gru
+Gru|* eps Gru|* iot Gru
+Gru|* iot Gru|* tet Gru
+Her|* eps Her|* pi. Her
+Her|* pi. Her|* tet Her
+Her|* tet Her|6588
+Her|6588|* tet Her
+Her|* tet Her|* pi. Her
+Her|* pi. Her|* eta Her
+Her|* eta Her|* sig Her
+Her|* sig Her|* tau Her
+Her|* tau Her|* sig Her
+Her|* sig Her|* eta Her
+Her|* eta Her|* zet Her
+Her|* zet Her|NAME Kornephoros                   * bet Her
+Her|NAME Kornephoros                   * bet Her|* zet Her
+Her|* zet Her|* eps Her
+Her|* eps Her|NAME Sarin                         * del Her
+Her|NAME Sarin                         * del Her|* mu.01 Her
+Her|* mu.01 Her|* ksi Her
+Her|* ksi Her|* omi Her
+Hor|* bet Hor|* mu. Hor
+Hor|* mu. Hor|* zet Hor
+Hor|* zet Hor|* eta Hor
+Hor|* eta Hor|* iot Hor
+Hor|* iot Hor|868
+Hor|868|* alf Hor
+Hor|* alf Hor|* del Hor
+Hya|* rho Hya|NAME Ashlesha                      * eps Hya
+Hya|NAME Ashlesha                      * eps Hya|3410
+Hya|3410|NAME Minchir                       * sig Hya
+Hya|NAME Minchir                       * sig Hya|* eta Hya
+Hya|* eta Hya|* rho Hya
+Hya|* rho Hya|* zet Hya
+Hya|* zet Hya|3665
+Hya|3665|NAME Ukdah                         * iot Hya
+Hya|NAME Ukdah                         * iot Hya|NAME Alphard                       * alf Hya
+Hya|NAME Alphard                       * alf Hya|NAME Zhang                         * ups01 Hya
+Hya|NAME Zhang                         * ups01 Hya|* lam Hya
+Hya|* lam Hya|* mu. Hya
+Hya|* mu. Hya|* nu. Hya
+Hya|* nu. Hya|* ksi Hya
+Hya|* ksi Hya|* bet Hya
+Hya|* bet Hya|* gam Hya
+Hya|* gam Hya|* pi. Hya
+Hyi|* alf Hyi|* eps Hyi
+Hyi|* eps Hyi|* gam Hyi
+Hyi|* gam Hyi|* bet Hyi
+Hyi|* bet Hyi|* alf Hyi
+Ind|* alf Ind|* tet Ind B
+Ind|* tet Ind B|* del Ind
+Ind|* del Ind|* eps Ind
+Ind|* eps Ind|* del Ind
+Ind|* del Ind|* tet Ind B
+Ind|* tet Ind B|* mu. Ind
+Ind|* mu. Ind|* bet Ind
+LMi|NAME Praecipua                     * 46 LMi|* bet LMi
+LMi|* bet LMi|* 21 LMi
+Lac|* 1 Lac|HD 211073
+Lac|HD 211073|* 6 Lac
+Lac|* 6 Lac|* 11 Lac
+Lac|* 11 Lac|* 6 Lac
+Lac|* 6 Lac|* 2 Lac
+Lac|* 2 Lac|* 6 Lac
+Lac|* 6 Lac|* 5 Lac
+Lac|* 5 Lac|* 4 Lac
+Lac|* 4 Lac|* bet Lac
+Lac|* bet Lac|* alf Lac
+Lac|* alf Lac|* 5 Lac
+Leo|* eps Leo|NAME Rasalas                       * mu. Leo
+Leo|NAME Rasalas                       * mu. Leo|NAME Adhafera                      * zet Leo
+Leo|NAME Adhafera                      * zet Leo|NAME Algieba                       * gam Leo
+Leo|NAME Algieba                       * gam Leo|* eta Leo
+Leo|* eta Leo|NAME Regulus                       * alf Leo
+Leo|NAME Regulus                       * alf Leo|NAME Subra                         * omi Leo
+Leo|NAME Subra                         * omi Leo|NAME Regulus                       * alf Leo
+Leo|NAME Regulus                       * alf Leo|NAME Chertan                       * tet Leo
+Leo|NAME Chertan                       * tet Leo|* iot Leo A
+Leo|* iot Leo A|* sig Leo
+Leo|* sig Leo|* iot Leo A
+Leo|* iot Leo A|NAME Chertan                       * tet Leo
+Leo|NAME Chertan                       * tet Leo|NAME Denebola                      * bet Leo
+Leo|NAME Denebola                      * bet Leo|NAME Zosma                         * del Leo
+Leo|NAME Zosma                         * del Leo|NAME Algieba                       * gam Leo
+Lep|* eps Lep|NAME Nihal                         * bet Lep
+Lep|NAME Nihal                         * bet Lep|NAME Arneb                         * alf Lep
+Lep|NAME Arneb                         * alf Lep|* mu. Lep
+Lep|* mu. Lep|NAME Arneb                         * alf Lep
+Lep|NAME Arneb                         * alf Lep|* zet Lep
+Lep|* zet Lep|* eta Lep
+Lib|* tet Lib|NAME Zubenelhakrabi                * gam Lib
+Lib|NAME Zubenelhakrabi                * gam Lib|NAME Zubeneschamali                * bet Lib
+Lib|NAME Zubeneschamali                * bet Lib|NAME Zubenelgenubi                 * alf02 Lib
+Lib|NAME Zubenelgenubi                 * alf02 Lib|NAME Brachium                      * sig Lib
+Lib|NAME Brachium                      * sig Lib|NAME Zubeneschamali                * bet Lib
+Lib|NAME Zubeneschamali                * bet Lib|NAME Brachium                      * sig Lib
+Lib|NAME Brachium                      * sig Lib|5794
+Lib|5794|* tau Lib
+Lup|* tet Lup|* eta Lup
+Lup|* eta Lup|* gam Lup
+Lup|* gam Lup|* eps Lup
+Lup|* eps Lup|* kap Lup
+Lup|* kap Lup|* zet Lup
+Lup|* zet Lup|* alf Lup
+Lup|* alf Lup|* bet Lup
+Lup|* bet Lup|* del Lup
+Lup|* del Lup|* gam Lup
+Lup|* gam Lup|* del Lup
+Lup|* del Lup|* phi01 Lup
+Lup|* phi01 Lup|* chi Lup
+Lyn|* alf Lyn|* 38 Lyn B
+Lyn|* 38 Lyn B|3612
+Lyn|3612|* 10 UMa
+Lyn|* 10 UMa|NAME Alsciaukat                    * 31 Lyn
+Lyn|NAME Alsciaukat                    * 31 Lyn|* 21 Lyn
+Lyn|* 21 Lyn|* 15 Lyn
+Lyn|* 15 Lyn|* 2 Lyn
+Lyr|NAME Vega                          * alf Lyr|* zet01 Lyr
+Lyr|* zet01 Lyr|NAME Sheliak                       * bet Lyr
+Lyr|NAME Sheliak                       * bet Lyr|NAME Sulafat                       * gam Lyr
+Lyr|NAME Sulafat                       * gam Lyr|* del02 Lyr
+Lyr|* del02 Lyr|* zet01 Lyr
+Men|* alf Men|* gam Men
+Men|* gam Men|* eta Men
+Men|* eta Men|* bet Men
+Mic|* tet01 Mic|* eps Mic
+Mic|* eps Mic|* gam Mic
+Mic|* gam Mic|* alf Mic
+Mon|* 13 Mon|2298
+Mon|2298|* 18 Mon
+Mon|* 18 Mon|2714
+Mon|2714|* bet Mon
+Mon|* bet Mon|* gam Mon
+Mon|* gam Mon|* bet Mon
+Mon|* bet Mon|2714
+Mon|2714|* alf Mon
+Mon|* alf Mon|* zet Mon
+Mus|* bet Mus B|* alf Mus
+Mus|* alf Mus|* del Mus
+Mus|* del Mus|* alf Mus
+Mus|* alf Mus|* gam Mus
+Mus|* gam Mus|* alf Mus
+Mus|* alf Mus|* eps Mus
+Mus|* eps Mus|* lam Mus
+Nor|* eps Nor|* gam02 Nor
+Nor|* gam02 Nor|* eta Nor
+Oct|* bet Oct|* del Oct
+Oct|* del Oct|* nu. Oct
+Oct|* nu. Oct|* bet Oct
+Oph|NAME Rasalhague                    * alf Oph|6299
+Oph|6299|NAME Marfik                        * lam Oph
+Oph|NAME Marfik                        * lam Oph|NAME Yed Prior                     * del Oph
+Oph|NAME Yed Prior                     * del Oph|NAME Yed Posterior                 * eps Oph
+Oph|NAME Yed Posterior                 * eps Oph|* zet Oph
+Oph|* zet Oph|NAME Sabik                         * eta Oph
+Oph|NAME Sabik                         * eta Oph|NAME Cebalrai                      * bet Oph
+Oph|NAME Cebalrai                      * bet Oph|NAME Rasalhague                    * alf Oph
+Ori|NAME Alnitak                       * zet Ori|NAME Saiph                         * kap Ori
+Ori|NAME Saiph                         * kap Ori|NAME Rigel                         * bet Ori
+Ori|NAME Rigel                         * bet Ori|1852
+Ori|1852|NAME Bellatrix                     * gam Ori
+Ori|NAME Bellatrix                     * gam Ori|1879
+Ori|1879|NAME Betelgeuse                    * alf Ori
+Ori|NAME Betelgeuse                    * alf Ori|* mu. Ori B
+Ori|* mu. Ori B|* ksi Ori
+Ori|* ksi Ori|* nu. Ori
+Ori|* nu. Ori|* chi01 Ori
+Ori|* chi01 Ori|* chi02 Ori
+Ori|* chi02 Ori|* ksi Ori
+Ori|* ksi Ori|* mu. Ori B
+Ori|* mu. Ori B|NAME Betelgeuse                    * alf Ori
+Ori|NAME Betelgeuse                    * alf Ori|NAME Alnitak                       * zet Ori
+Ori|NAME Alnitak                       * zet Ori|NAME Alnilam                       * eps Ori
+Ori|NAME Alnilam                       * eps Ori|1852
+Ori|1852|NAME Bellatrix                     * gam Ori
+Ori|NAME Bellatrix                     * gam Ori|NAME Tabit                         * pi.03 Ori
+Ori|NAME Tabit                         * pi.03 Ori|* pi.04 Ori
+Ori|* pi.04 Ori|* pi.05 Ori
+Ori|* pi.05 Ori|* pi.06 Ori
+Ori|* pi.06 Ori|* pi.05 Ori
+Ori|* pi.05 Ori|* pi.04 Ori
+Ori|* pi.04 Ori|NAME Tabit                         * pi.03 Ori
+Ori|NAME Tabit                         * pi.03 Ori|* pi.02 Ori
+Ori|* pi.02 Ori|* omi02 Ori
+Ori|* omi02 Ori|* 11 Ori
+Ori|* 11 Ori|* 15 Ori
+Pav|NAME Peacock                       * alf Pav|* bet Pav
+Pav|* bet Pav|* gam Pav
+Pav|* gam Pav|* bet Pav
+Pav|* bet Pav|* eps Pav
+Pav|* eps Pav|* zet Pav
+Pav|* zet Pav|* eta Pav
+Pav|* eta Pav|* pi. Pav
+Pav|* pi. Pav|* ksi Pav
+Pav|* ksi Pav|* lam Pav
+Pav|* lam Pav|* del Pav
+Pav|* del Pav|* bet Pav
+Peg|* pi. Peg|NAME Matar                         * eta Peg
+Peg|NAME Matar                         * eta Peg|8775
+Peg|8775|NAME Alpheratz                     NAME Sirrah                        * alf And
+Peg|NAME Alpheratz                     NAME Sirrah                        * alf And|8775
+Peg|8775|NAME Markab                        * alf Peg
+Peg|NAME Markab                        * alf Peg|NAME Algenib                       * gam Peg
+Peg|NAME Algenib                       * gam Peg|NAME Alpheratz                     NAME Sirrah                        * alf And
+Peg|NAME Alpheratz                     NAME Sirrah                        * alf And|NAME Algenib                       * gam Peg
+Peg|NAME Algenib                       * gam Peg|NAME Markab                        * alf Peg
+Peg|NAME Markab                        * alf Peg|NAME Homam                         * 42 Peg
+Peg|NAME Homam                         * 42 Peg|NAME Biham                         * tet Peg
+Peg|NAME Biham                         * tet Peg|NAME Enif                          * eps Peg
+Per|NAME Algol                         NAME Algol B                       NAME Algol C                       NAME Algol A                       * bet Per|NAME Misam                         * kap Per
+Per|NAME Misam                         * kap Per|NAME Mirfak                        * alf Per
+Per|NAME Mirfak                        * alf Per|* gam Per
+Per|* gam Per|NAME Mirfak                        * alf Per
+Per|NAME Mirfak                        * alf Per|* del Per
+Per|* del Per|* eps Per
+Per|* eps Per|NAME Menkhib                       NAME Menkib                        * ksi Per
+Per|NAME Menkhib                       NAME Menkib                        * ksi Per|* zet Per
+Phe|NAME Ankaa                         * alf Phe|* bet Phe
+Phe|* bet Phe|* gam Phe
+Phe|* gam Phe|* del Phe
+Phe|* del Phe|* gam Phe
+Phe|* gam Phe|* bet Phe
+Phe|* bet Phe|NAME Wurren                        * zet Phe
+Phe|NAME Wurren                        * zet Phe|* eta Phe
+Phe|* eta Phe|* eps Phe
+Phe|* eps Phe|NAME Ankaa                         * alf Phe
+Pic|* alf Pic|* gam Pic
+Pic|* gam Pic|* bet Pic
+PsA|NAME Fomalhaut                     * alf PsA|* eps PsA
+PsA|* eps PsA|* lam PsA
+PsA|* lam PsA|8386
+PsA|8386|* tet PsA
+PsA|* tet PsA|* iot PsA
+PsA|* iot PsA|* mu. PsA
+PsA|* mu. PsA|* bet PsA
+PsA|* bet PsA|* gam PsA
+PsA|* gam PsA|* del PsA
+PsA|* del PsA|NAME Fomalhaut                     * alf PsA
+Psc|* phi Psc|* ups Psc
+Psc|* ups Psc|* tau Psc
+Psc|* tau Psc|* phi Psc
+Psc|* phi Psc|NAME Alpherg                       * eta Psc
+Psc|NAME Alpherg                       * eta Psc|NAME Torcular                      * omi Psc
+Psc|NAME Torcular                      * omi Psc|* alf Psc A
+Psc|* alf Psc A|* nu. Psc
+Psc|* nu. Psc|* eps Psc
+Psc|* eps Psc|* del Psc
+Psc|* del Psc|9072
+Psc|9072|* iot Psc
+Psc|* iot Psc|* tet Psc
+Psc|* tet Psc|* 7 Psc
+Psc|* 7 Psc|* gam Psc
+Psc|* gam Psc|* kap Psc
+Psc|* kap Psc|* lam Psc
+Psc|* lam Psc|* 19 Psc
+Psc|* 19 Psc|* iot Psc
+Pup|NAME Tureis                        * rho Pup|NAME Azmidi                        NAME Asmidiske                     NAME Azmidiske                     * ksi Pup
+Pup|NAME Azmidi                        NAME Asmidiske                     NAME Azmidiske                     * ksi Pup|* k01 Pup
+Pup|* k01 Pup|* p Pup
+Pup|* p Pup|NAME Ahadi                         * pi. Pup
+Pup|NAME Ahadi                         * pi. Pup|* nu. Pup
+Pup|* nu. Pup|NAME Altaleban                     NAME Taleban                       * tau Pup
+Pup|NAME Altaleban                     NAME Taleban                       * tau Pup|NAME Hadir                         * sig Pup
+Pup|NAME Hadir                         * sig Pup|NAME Naos                          * zet Pup
+Pup|NAME Naos                          * zet Pup|NAME Tureis                        * rho Pup
+Pyx|* bet Pyx|* alf Pyx
+Pyx|* alf Pyx|* gam Pyx
+Ret|* alf Ret|* eps Ret
+Ret|* eps Ret|* del Ret
+Ret|* del Ret|* gam Ret
+Ret|* gam Ret|* bet Ret
+Ret|* bet Ret|* alf Ret
+Scl|280|* del Scl
+Scl|* del Scl|* gam Scl
+Scl|* gam Scl|* bet Scl
+Sco|* bet02 Sco|NAME Alniyat                       * sig Sco
+Sco|NAME Alniyat                       * sig Sco|NAME Dschubba                      * del Sco
+Sco|NAME Dschubba                      * del Sco|NAME Alniyat                       * sig Sco
+Sco|NAME Alniyat                       * sig Sco|NAME Fang                          * pi. Sco
+Sco|NAME Fang                          * pi. Sco|NAME Alniyat                       * sig Sco
+Sco|NAME Alniyat                       * sig Sco|NAME Antares                       * alf Sco
+Sco|NAME Antares                       * alf Sco|NAME Paikauhale                    * tau Sco
+Sco|NAME Paikauhale                    * tau Sco|NAME Larawag                       * eps Sco
+Sco|NAME Larawag                       * eps Sco|NAME Xamidimura                    * mu.01 Sco
+Sco|NAME Xamidimura                    * mu.01 Sco|* zet02 Sco
+Sco|* zet02 Sco|* eta Sco
+Sco|* eta Sco|NAME Sargas                        * tet Sco
+Sco|NAME Sargas                        * tet Sco|* iot01 Sco
+Sco|* iot01 Sco|* kap Sco
+Sco|* kap Sco|NAME Shaula                        * lam Sco
+Sco|NAME Shaula                        * lam Sco|NAME Lesath                        * ups Sco
+Sct|* bet Sct|* alf Sct
+Sct|* alf Sct|* gam Sct
+Sct|* gam Sct|* alf Sct
+Sct|* alf Sct|* zet Sct
+Ser|* nu. Ser|* ksi Ser
+Ser|* ksi Ser|* omi Ser
+Ser|* omi Ser|* eta Ser
+Ser|* eta Ser|* tet02 Ser
+Ser|NAME Chow                          * bet Ser|NAME Gudja                         * kap Ser
+Ser|NAME Gudja                         * kap Ser|* gam Ser
+Ser|* gam Ser|NAME Chow                          * bet Ser
+Ser|NAME Chow                          * bet Ser|* del Ser B
+Ser|* del Ser B|NAME Unukalhai                     * alf Ser
+Ser|NAME Unukalhai                     * alf Ser|* eps Ser
+Ser|* eps Ser|* mu. Ser
+Ser|* mu. Ser|* nu. Ser
+Sex|4119|3981
+Sex|3981|3909
+Sge|* gam Sge|* del Sge
+Sge|* del Sge|NAME Sham                          * alf Sge
+Sge|NAME Sham                          * alf Sge|* del Sge
+Sge|* del Sge|* bet Sge
+Sgr|NAME Rukbat                        * alf Sgr|* iot Sgr
+Sgr|* iot Sgr|NAME Arkab Prior                   * bet01 Sgr
+Sgr|NAME Arkab Prior                   * bet01 Sgr|* iot Sgr
+Sgr|* iot Sgr|* tet01 Sgr
+Sgr|* tet01 Sgr|* c Sgr
+Sgr|* c Sgr|* b Sgr
+Sgr|* b Sgr|* h02 Sgr
+Sgr|* h02 Sgr|* tau Sgr
+Sgr|* tau Sgr|NAME Nunki                         * sig Sgr
+Sgr|NAME Nunki                         * sig Sgr|* omi Sgr
+Sgr|* omi Sgr|NAME Albaldah                      * pi. Sgr
+Sgr|NAME Albaldah                      * pi. Sgr|* rho01 Sgr
+Sgr|* rho01 Sgr|* ups Sgr
+Sgr|* ups Sgr|* rho01 Sgr
+Sgr|* rho01 Sgr|NAME Albaldah                      * pi. Sgr
+Sgr|NAME Albaldah                      * pi. Sgr|* omi Sgr
+Sgr|* omi Sgr|* ksi02 Sgr
+Sgr|* ksi02 Sgr|* omi Sgr
+Sgr|* omi Sgr|NAME Nunki                         * sig Sgr
+Sgr|NAME Nunki                         * sig Sgr|* phi Sgr
+Sgr|* phi Sgr|NAME Ascella                       * zet Sgr
+Sgr|NAME Ascella                       * zet Sgr|* tau Sgr
+Sgr|* tau Sgr|NAME Ascella                       * zet Sgr
+Sgr|NAME Ascella                       * zet Sgr|* phi Sgr
+Sgr|* phi Sgr|NAME Kaus Borealis                 * lam Sgr
+Sgr|NAME Kaus Borealis                 * lam Sgr|NAME Kaus Media                    * del Sgr
+Sgr|NAME Kaus Media                    * del Sgr|NAME Alnasl                        * gam02 Sgr
+Sgr|NAME Alnasl                        * gam02 Sgr|NAME Kaus Media                    * del Sgr
+Sgr|NAME Kaus Media                    * del Sgr|NAME Kaus Australis                * eps Sgr
+Sgr|NAME Kaus Australis                * eps Sgr|* eta Sgr
+Tau|NAME Tianguan                      * zet Tau|NAME Aldebaran                     * alf Tau
+Tau|NAME Aldebaran                     * alf Tau|NAME Prima Hyadum                  * gam Tau
+Tau|NAME Prima Hyadum                  * gam Tau|* lam Tau
+Tau|* lam Tau|* omi Tau
+Tau|* omi Tau|* lam Tau
+Tau|* lam Tau|NAME Prima Hyadum                  * gam Tau
+Tau|NAME Prima Hyadum                  * gam Tau|NAME Secunda Hyadum                * del Tau
+Tau|NAME Secunda Hyadum                * del Tau|NAME Ain                           * eps Tau
+Tau|NAME Ain                           * eps Tau|NAME Elnath                        * bet Tau
+Tel|* eps Tel|* alf Tel
+Tel|* alf Tel|* zet Tel
+TrA|NAME Atria                         * alf TrA|* gam TrA
+TrA|* gam TrA|* eps TrA
+TrA|* eps TrA|* bet TrA
+TrA|* bet TrA|NAME Atria                         * alf TrA
+Tri|* bet Tri|* gam Tri
+Tri|* gam Tri|NAME Mothallah                     * alf Tri
+Tri|NAME Mothallah                     * alf Tri|* bet Tri
+Tuc|* del Tuc|* alf Tuc
+Tuc|* alf Tuc|* gam Tuc
+Tuc|* gam Tuc|* eps Tuc
+Tuc|* eps Tuc|* zet Tuc
+Tuc|* zet Tuc|* bet01 Tuc
+Tuc|* bet01 Tuc|* gam Tuc
+UMa|NAME Alkaid                        NAME Alcaid                        * eta UMa|NAME Mizar A                       * zet01 UMa
+UMa|NAME Mizar A                       * zet01 UMa|NAME Alioth                        * eps UMa
+UMa|NAME Alioth                        * eps UMa|NAME Megrez                        * del UMa
+UMa|NAME Megrez                        * del UMa|NAME Phecda                        * gam UMa
+UMa|NAME Phecda                        * gam UMa|NAME Taiyangshou                   NAME Alkafzah                      * chi UMa
+UMa|NAME Taiyangshou                   NAME Alkafzah                      * chi UMa|NAME Alula Borealis                * nu. UMa
+UMa|NAME Alula Borealis                * nu. UMa|* ksi UMa B
+UMa|* ksi UMa B|NAME Alula Borealis                * nu. UMa
+UMa|NAME Alula Borealis                * nu. UMa|NAME Taiyangshou                   NAME Alkafzah                      * chi UMa
+UMa|NAME Taiyangshou                   NAME Alkafzah                      * chi UMa|* psi UMa
+UMa|* psi UMa|NAME Tania Australis               * mu. UMa
+UMa|NAME Tania Australis               * mu. UMa|NAME Tania Borealis                * lam UMa
+UMa|NAME Tania Borealis                * lam UMa|NAME Tania Australis               * mu. UMa
+UMa|NAME Tania Australis               * mu. UMa|* psi UMa
+UMa|* psi UMa|NAME Taiyangshou                   NAME Alkafzah                      * chi UMa
+UMa|NAME Taiyangshou                   NAME Alkafzah                      * chi UMa|NAME Phecda                        * gam UMa
+UMa|NAME Phecda                        * gam UMa|NAME Merak                         * bet UMa
+UMa|NAME Merak                         * bet UMa|NAME Dubhe                         * alf UMa
+UMa|NAME Dubhe                         * alf UMa|NAME Megrez                        * del UMa
+UMa|NAME Megrez                        * del UMa|NAME Dubhe                         * alf UMa
+UMa|NAME Dubhe                         * alf UMa|* h UMa
+UMa|* h UMa|NAME Muscida                       * omi UMa
+UMa|NAME Muscida                       * omi UMa|* ups UMa
+UMa|* ups UMa|NAME Merak                         * bet UMa
+UMa|NAME Merak                         * bet UMa|* ups UMa
+UMa|* ups UMa|* tet UMa
+UMa|* tet UMa|NAME Alkaphrah                     * kap UMa
+UMa|NAME Alkaphrah                     * kap UMa|NAME Talitha                       * iot UMa
+UMi|NAME Lodestar                      NAME Polaris                       NAME North Star                    * alf UMi|NAME Yildun                        * del UMi
+UMi|NAME Yildun                        * del UMi|* eps UMi
+UMi|* eps UMi|* zet UMi
+UMi|* zet UMi|NAME Kochab                        * bet UMi
+UMi|NAME Kochab                        * bet UMi|NAME Pherkad                       * gam UMi
+UMi|NAME Pherkad                       * gam UMi|6116
+UMi|6116|* zet UMi
+Vel|* gam01 Vel|3485
+Vel|3485|* kap Vel
+Vel|* kap Vel|* phi Vel
+Vel|* phi Vel|* mu. Vel
+Vel|* mu. Vel|* p Vel
+Vel|* p Vel|* q Vel
+Vel|* q Vel|* psi Vel
+Vel|* psi Vel|3634
+Vel|3634|* d Vel
+Vel|* d Vel|* e Vel
+Vel|* e Vel|* gam01 Vel
+Vir|NAME Spica                         * alf Vir|* tet Vir
+Vir|* tet Vir|NAME Porrima                       * gam Vir
+Vir|NAME Porrima                       * gam Vir|NAME Minelauva                     * del Vir
+Vir|NAME Minelauva                     * del Vir|5107
+Vir|5107|NAME Spica                         * alf Vir
+Vol|* alf Vol|* bet Vol
+Vol|* bet Vol|* eps Vol
+Vol|* eps Vol|* del Vol
+Vol|* del Vol|* gam02 Vol
+Vol|* gam02 Vol|* zet Vol
+Vol|* zet Vol|* eps Vol
+Vul|* 1 Vul|NAME Anser                         * alf Vul
+Vul|NAME Anser                         * alf Vul|* 13 Vul

@@ -1,0 +1,9 @@
+﻿Name:Orion
+Stars:100
+Play: Orion/Orion-01
+Look: betelgeuse
+Play: Orion/Orion-02
+Img: Orion/OrionNebula
+Play: Orion/Orion-03A
+Play: EndOfTour
+ENDOFTOUR

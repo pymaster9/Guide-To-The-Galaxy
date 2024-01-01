@@ -1,0 +1,4 @@
+﻿Name:Zodiac
+Stars:100
+Zoom{090}: NAME Rigel                         * bet Ori
+Look: NAME Rigel                         * bet Ori

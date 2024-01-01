@@ -1,0 +1,14 @@
+﻿Name:Big Dipper
+Stars:100
+Play: Big_Dipper/BD01
+Look: mizar
+Play: Big_Dipper/BD02
+Zoom{090}: mizar
+Look: mizar
+RotateAround: mizar
+Play: Big_Dipper/BD03
+Look: mizar
+Play: EndOfTour
+StopRotation
+GoTo: Sun
+Snap: mizar
